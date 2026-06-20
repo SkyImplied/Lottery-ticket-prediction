@@ -105,7 +105,7 @@ private struct AppSidebar: View {
             .padding(.top, 64)
             .padding(.bottom, 38)
 
-            ScrollView(.vertical, showsIndicators: false) {
+            ScrollView(.vertical, showsIndicators: true) {
                 VStack(alignment: .leading, spacing: 20) {
                     SidebarGroup(title: "福利彩票", games: LotteryGame.allCases.filter { $0.family == .welfare })
                     SidebarGroup(title: "体育彩票", games: LotteryGame.allCases.filter { $0.family == .sports })
