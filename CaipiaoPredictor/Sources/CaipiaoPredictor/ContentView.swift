@@ -127,7 +127,7 @@ private struct AppSidebar: View {
 private struct AppIconMark: View {
     var body: some View {
         Group {
-            if let url = Bundle.module.url(forResource: "AppLogo", withExtension: "png"),
+            if let url = AppResources.url(forResource: "AppLogo", withExtension: "png"),
                let image = NSImage(contentsOf: url) {
                 Image(nsImage: image)
                     .resizable()

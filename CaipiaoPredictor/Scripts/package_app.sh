@@ -16,7 +16,7 @@ mkdir -p "$APP_DIR/Contents/MacOS"
 mkdir -p "$APP_DIR/Contents/Resources"
 
 cp "$BUILD_DIR/$PRODUCT_NAME" "$APP_DIR/Contents/MacOS/$PRODUCT_NAME"
-cp -R "$BUILD_DIR/CaipiaoPredictor_CaipiaoPredictor.bundle" "$APP_DIR/CaipiaoPredictor_CaipiaoPredictor.bundle"
+cp -R "$BUILD_DIR/CaipiaoPredictor_CaipiaoPredictor.bundle" "$APP_DIR/Contents/Resources/CaipiaoPredictor_CaipiaoPredictor.bundle"
 cp "$ROOT_DIR/Sources/CaipiaoPredictor/Resources/AppIcon.icns" "$APP_DIR/Contents/Resources/AppIcon.icns"
 
 cat > "$APP_DIR/Contents/Info.plist" <<'PLIST'

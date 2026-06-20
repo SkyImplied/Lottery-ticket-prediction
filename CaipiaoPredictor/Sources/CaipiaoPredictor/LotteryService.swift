@@ -64,7 +64,7 @@ struct LotteryService {
     }
 
     func loadBundledDataset() throws -> BundledLotteryDataset {
-        guard let url = Bundle.module.url(forResource: "bundled_draws", withExtension: "json") else {
+        guard let url = AppResources.url(forResource: "bundled_draws", withExtension: "json") else {
             throw LotteryServiceError.missingBundledData
         }
         let data = try Data(contentsOf: url)
