@@ -1,0 +1,406 @@
+{
+  "summary": {
+    "draw_count": 1980,
+    "first_issue": "2020001",
+    "last_issue": "2026159",
+    "first_date": "2020-10-28",
+    "last_date": "2026-06-18",
+    "frequency_expected": 495.0,
+    "chi_square_df79": 56.95757575757576,
+    "chi_square_normal_approx_z": -1.75360111669523,
+    "top_hot_numbers": [
+      [
+        27,
+        554,
+        59.0
+      ],
+      [
+        12,
+        538,
+        43.0
+      ],
+      [
+        53,
+        531,
+        36.0
+      ],
+      [
+        63,
+        528,
+        33.0
+      ],
+      [
+        2,
+        527,
+        32.0
+      ],
+      [
+        71,
+        526,
+        31.0
+      ],
+      [
+        54,
+        519,
+        24.0
+      ],
+      [
+        7,
+        513,
+        18.0
+      ],
+      [
+        11,
+        513,
+        18.0
+      ],
+      [
+        9,
+        511,
+        16.0
+      ]
+    ],
+    "top_cold_numbers": [
+      [
+        31,
+        438,
+        -57.0
+      ],
+      [
+        22,
+        455,
+        -40.0
+      ],
+      [
+        55,
+        460,
+        -35.0
+      ],
+      [
+        76,
+        462,
+        -33.0
+      ],
+      [
+        38,
+        463,
+        -32.0
+      ],
+      [
+        42,
+        466,
+        -29.0
+      ],
+      [
+        17,
+        470,
+        -25.0
+      ],
+      [
+        29,
+        471,
+        -24.0
+      ],
+      [
+        20,
+        472,
+        -23.0
+      ],
+      [
+        4,
+        473,
+        -22.0
+      ]
+    ],
+    "odd_avg": 10.044949494949496,
+    "odd_sd": 1.944040296448846,
+    "big_avg": 10.013636363636364,
+    "big_sd": 1.865507191058187,
+    "sum_avg": 808.820707070707,
+    "sum_sd": 86.19925633924834,
+    "repeat_avg": 5.0055583628094995,
+    "repeat_sd": 1.6744881275006172,
+    "zone_counts": {
+      "1": 9998,
+      "2": 9775,
+      "3": 9935,
+      "4": 9892
+    },
+    "tail_counts": {
+      "0": 3921,
+      "1": 3974,
+      "2": 3988,
+      "3": 4028,
+      "4": 3972,
+      "5": 3916,
+      "6": 3915,
+      "7": 4003,
+      "8": 3915,
+      "9": 3968
+    },
+    "top_pairs": [
+      [
+        27,
+        53,
+        155,
+        35.9493670886076
+      ],
+      [
+        23,
+        53,
+        154,
+        34.9493670886076
+      ],
+      [
+        11,
+        69,
+        153,
+        33.9493670886076
+      ],
+      [
+        14,
+        58,
+        153,
+        33.9493670886076
+      ],
+      [
+        27,
+        66,
+        151,
+        31.9493670886076
+      ],
+      [
+        41,
+        53,
+        151,
+        31.9493670886076
+      ],
+      [
+        53,
+        77,
+        149,
+        29.9493670886076
+      ],
+      [
+        10,
+        54,
+        149,
+        29.9493670886076
+      ],
+      [
+        27,
+        63,
+        149,
+        29.9493670886076
+      ],
+      [
+        27,
+        64,
+        149,
+        29.9493670886076
+      ]
+    ],
+    "expected_pair_count": 119.0506329113924
+  },
+  "play_probabilities": [
+    {
+      "play": "选一",
+      "pick_count": 1,
+      "min_hit_probability": 0.25,
+      "top_hit_probability": 0.25,
+      "fixed_ev_yuan_per_2_yuan": 1.125,
+      "fixed_return_rate": 0.5625,
+      "floating_note": ""
+    },
+    {
+      "play": "选二",
+      "pick_count": 2,
+      "min_hit_probability": 0.060126582278481014,
+      "top_hit_probability": 0.060126582278481014,
+      "fixed_ev_yuan_per_2_yuan": 1.1424050632911393,
+      "fixed_return_rate": 0.5712025316455697,
+      "floating_note": ""
+    },
+    {
+      "play": "选三",
+      "pick_count": 3,
+      "min_hit_probability": 0.15262901655306718,
+      "top_hit_probability": 0.013875365141187927,
+      "fixed_ev_yuan_per_2_yuan": 1.13777994157741,
+      "fixed_return_rate": 0.568889970788705,
+      "floating_note": ""
+    },
+    {
+      "play": "选四",
+      "pick_count": 4,
+      "min_hit_probability": 0.25894674945307855,
+      "top_hit_probability": 0.003063392303898633,
+      "fixed_ev_yuan_per_2_yuan": 1.139041338408427,
+      "fixed_return_rate": 0.5695206692042135,
+      "floating_note": ""
+    },
+    {
+      "play": "选五",
+      "pick_count": 5,
+      "min_hit_probability": 0.0966723150267454,
+      "top_hit_probability": 0.0006449246955576069,
+      "fixed_ev_yuan_per_2_yuan": 1.1506689513018626,
+      "fixed_return_rate": 0.5753344756509313,
+      "floating_note": ""
+    },
+    {
+      "play": "选六",
+      "pick_count": 6,
+      "min_hit_probability": 0.16158208879727867,
+      "top_hit_probability": 0.0001289849391115214,
+      "fixed_ev_yuan_per_2_yuan": 1.1391836012089176,
+      "fixed_return_rate": 0.5695918006044588,
+      "floating_note": ""
+    },
+    {
+      "play": "选七",
+      "pick_count": 7,
+      "min_hit_probability": 0.06158595082645715,
+      "top_hit_probability": 2.440255604812567e-05,
+      "fixed_ev_yuan_per_2_yuan": 0.8689018132056107,
+      "fixed_return_rate": 0.43445090660280533,
+      "floating_note": ""
+    },
+    {
+      "play": "选八",
+      "pick_count": 8,
+      "min_hit_probability": 0.1906040392948664,
+      "top_hit_probability": 4.345660666104571e-06,
+      "fixed_ev_yuan_per_2_yuan": 1.1579874013201568,
+      "fixed_return_rate": 0.5789937006600784,
+      "floating_note": ""
+    },
+    {
+      "play": "选九",
+      "pick_count": 9,
+      "min_hit_probability": 0.21679832991606876,
+      "top_hit_probability": 7.242767776840952e-07,
+      "fixed_ev_yuan_per_2_yuan": 0.956961455071391,
+      "fixed_return_rate": 0.4784807275356955,
+      "floating_note": "浮动，25万封顶"
+    },
+    {
+      "play": "选十",
+      "pick_count": 10,
+      "min_hit_probability": 0.11045046617365567,
+      "top_hit_probability": 1.122118951341556e-07,
+      "fixed_ev_yuan_per_2_yuan": 0.5786200118545151,
+      "fixed_return_rate": 0.28931000592725753,
+      "floating_note": "浮动，500万封顶"
+    }
+  ],
+  "backtests": [
+    {
+      "warmup_draws": 300,
+      "ticket_size": 1,
+      "tested_draws": 1680,
+      "model_avg_hits": 0.2523809523809524,
+      "random_avg_hits": 0.24936904761904763,
+      "model_hit_distribution": {
+        "0": 1256,
+        "1": 424
+      },
+      "random_hit_distribution": {
+        "0": 63053,
+        "1": 20947
+      }
+    },
+    {
+      "warmup_draws": 300,
+      "ticket_size": 3,
+      "tested_draws": 1680,
+      "model_avg_hits": 0.7452380952380953,
+      "random_avg_hits": 0.7445952380952381,
+      "model_hit_distribution": {
+        "0": 715,
+        "1": 700,
+        "2": 243,
+        "3": 22
+      },
+      "random_hit_distribution": {
+        "0": 35220,
+        "1": 36150,
+        "2": 11494,
+        "3": 1136
+      }
+    },
+    {
+      "warmup_draws": 300,
+      "ticket_size": 5,
+      "tested_draws": 1680,
+      "model_avg_hits": 1.269047619047619,
+      "random_avg_hits": 1.2452738095238096,
+      "model_hit_distribution": {
+        "0": 386,
+        "1": 642,
+        "2": 492,
+        "3": 135,
+        "4": 24,
+        "5": 1
+      },
+      "random_hit_distribution": {
+        "0": 19241,
+        "1": 34072,
+        "2": 22625,
+        "3": 7018,
+        "4": 993,
+        "5": 51
+      }
+    },
+    {
+      "warmup_draws": 300,
+      "ticket_size": 10,
+      "tested_draws": 1680,
+      "model_avg_hits": 2.5142857142857142,
+      "random_avg_hits": 2.507,
+      "model_hit_distribution": {
+        "0": 74,
+        "1": 299,
+        "2": 497,
+        "3": 444,
+        "4": 250,
+        "5": 97,
+        "6": 19
+      },
+      "random_hit_distribution": {
+        "0": 3742,
+        "1": 14919,
+        "2": 24949,
+        "3": 22513,
+        "4": 12408,
+        "5": 4382,
+        "6": 931,
+        "7": 144,
+        "8": 12
+      }
+    }
+  ],
+  "latest_ranked_numbers_top20": [
+    12,
+    77,
+    27,
+    2,
+    53,
+    11,
+    7,
+    54,
+    57,
+    63,
+    14,
+    71,
+    52,
+    39,
+    50,
+    10,
+    21,
+    38,
+    18,
+    66
+  ],
+  "generated_at": "2026-06-19T14:44:18.163470+00:00"
+}

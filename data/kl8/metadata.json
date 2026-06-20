@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-06-19T12:42:27.285882+00:00",
+  "draw_count": 1980,
+  "first_issue": "2020001",
+  "last_issue": "2026159",
+  "source_note": "Fetched from ZHCW JSONP endpoint with draw dates and sales/prize fields.",
+  "primary_source": "https://jc.zhcw.com/port/client_json.php",
+  "fallback_source": "https://www.gdfc.org.cn/play_list_game_10.html"
+}
